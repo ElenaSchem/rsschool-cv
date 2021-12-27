@@ -1,7 +1,7 @@
 # Elena Schemeliova
 ## Contact
 +375 (29) 7491804  
-elena.shch91@gmail.com
+elena.shch91@gmail.com  
 telegram: @shchea  
 discord-rs-school: @ElenaSchem
 ## Position
@@ -16,10 +16,10 @@ And also I am self-educating on practical courses on programming from Hexlet.
 I go hiking and rafting, play the guitar, meditate. I am interested in personal development and psychology (books, trainings).
 
 ## Skills
-Figma HTML CSS JavaScript Teamwork Git Analysis of the competitive environment
-Trello LeaderTask Adobe Photoshop Usability Prototyping
-Typography Coloristics Empathy Map User portrait
-Scheduling user interviews Value proposition canvas
+Figma, HTML, CSS, JavaScript, Teamwork, Git, Analysis of the competitive environment,
+Trello, LeaderTask, Adobe Photoshop, Usability Prototyping,
+Typography, Coloristics, Empathy Map, User portrait,
+Scheduling user interviews, Value proposition canvas,
 Customer Journey Map
 
 ## Work experience
