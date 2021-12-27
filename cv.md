@@ -1,9 +1,9 @@
 # Elena Schemeliova
 ## Contact
-+375 (29) 7491804  
-elena.shch91@gmail.com  
-telegram: @shchea  
-discord-rs-school: @ElenaSchem
+Phone: +375 (29) 7491804  
+E-mail: elena.shch91@gmail.com  
+Telegram: @shchea  
+GitHub: ElenaSchem
 ## Position
 Junior Frontend Development  
 full-time  
@@ -39,25 +39,17 @@ I go hiking and rafting, play the guitar, meditate. I am interested in personal 
 
     alert (`Макс = ${max}; Номер = ${n}`);
 
-## Work experience
+## Experience
 
 ## Education
-2014  
-**Belarsuian national state university**  
-Faculty of Instrumentation, Instrumentation Technology, Engineer, Master of Engineering Science
-
-2013  
-**Belarsuian national state university**  
-Faculty of Instrumentation, Jewelry production technology and equipment, Engineer
-
-## Courses
-2021  
-**BELHARD Academy**  
-Website development basics
-
-2020  
-**IT-school MyFreedom**  
-UI / UX-design
+* **BELHARD Academy**  
+    + Website development basics
+    + Modern Front-End using JavaScript and HTML5  
+* **IT-school MyFreedom**  
+    + UI / UX-design
+* **Belarsuian national state university**  
+    + Jewelry production technology and equipment, Engineer  
 
 ## Languages
+Russian - native
 English - B2
