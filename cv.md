@@ -15,31 +15,31 @@ I am self-educating on practical courses on programming from Hexlet.
 
 ## Skills
 * HTML, CSS  
-* JavaScript Basics  
+* JavaScript  
 * Git, GitHub  
 * Figma, Adobe Photoshop  
 * VS Code, Trello, LeaderTask  
 
 ## Code example:
-    let arr = [];  
-        for (i = 0; i <= 4; i++) {  
-            arr[i] = +prompt(`Введите ${i} элемент массива`);  
-        }  
-
-        let max = arr[0];  
-        let n = 0;  
-        for (i = 0; i <= 4; i++) {  
-            if (arr[i] > max) {  
-                max = arr[i];  
-                n = i;  
-            };  
-        }  
-
-    alert (`Макс = ${max}; Номер = ${n}`);
+```javascript
+    function numberOfPairs(gloves) {
+        let glove = [...gloves].sort((a, b) => a.localeCompare(b));
+        let pairs = 0;
+        for (let i = 0; i < glove.length; i++) {
+            if (glove[i - 1] === glove[i]) {
+                pairs++;
+                i++;
+            }
+        }
+        return pairs;
+    }
+```
 
 ## Experience
 
 ## Education
+* **The Rolling Scopes School**  
+    + JS-FE Pre-School 2022 Stage#0
 * **BELHARD Academy**  
     + Website development basics
     + Modern Front-End using JavaScript and HTML5  
