@@ -39,9 +39,12 @@ body {
     list-style: none;
 }
 
+.nav-item {
+    padding: 0 10px;
+}
+
 .nav-link {
     position: relative;
-    padding: 0 10px;
     line-height: 40px;
     text-decoration: none;
     font-size: 14px;
@@ -75,14 +78,14 @@ body {
 .main-cont {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .profile {
     display: flex;
     justify-content: space-around;
     width: 100%;
-    padding: 50px 30px 35px;
+    padding: 30px 50px 25px;
     border-bottom: 5px solid #64538a;
 }
 
@@ -120,7 +123,7 @@ body {
 }
 
 .section {
-    width: 50%;
+    width: 45%;
     padding: 10px;
     padding-bottom: 20px;
     border-bottom: 1px solid #4a3283;
@@ -131,28 +134,43 @@ body {
     font-size: 20px;
     font-weight: 400;
     text-transform: uppercase;
-    /* letter-spacing: 5px; */
+    letter-spacing: 5px;
     color: #64538a;
 }
 
-/* .section-list {
+.section-list {
     margin: 0;
     padding: 0;
-    /* list-style: disc; */
-/* } */ 
+    list-style: none;
+}
 
-.section-item {
+.section-list2 {
+    margin-left: 20px;
+}
+
+.section-item, .section-item2 {
     position: relative;
     margin: 10px 0;
-    /* margin-bottom: 10px; */
     padding: 0;
-    /* padding-left: 5px; */
+}
+
+.section-item::before {
+    content: "";
+    background: url(assets/double-circle-bullet.svg) no-repeat 50% 50%;
+    background-size: 0.5em;
+    width: 24px;
+    margin-left: 20px;
+    padding-left: 20px;
 }
 
 .section-item a {
     text-decoration: none;
     color: #64538a;
     transition: color 0.3s;
+}
+
+.section-item a:hover {
+    color: #fce38a;
 }
 
 .pre {
@@ -183,6 +201,11 @@ body {
     text-transform: uppercase;
     font-weight: 100;
     color: #f0f8ff;
+}
+
+.footer-link img {
+    width: 12px;
+    filter: invert(1);
 }
 
 .footer-link:hover {
